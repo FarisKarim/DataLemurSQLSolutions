@@ -39,6 +39,8 @@ Tesla is investigating production bottlenecks and they need your help to extract
 
 
 ## Solution
+
+```sql
 SELECT part, assembly_step
 FROM parts_assembly
 WHERE finish_date IS NULL;
