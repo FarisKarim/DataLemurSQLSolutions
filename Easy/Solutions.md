@@ -23,7 +23,7 @@ You have a table of candidates and their skills. Your task is to find the candid
 
 
 
-### Solution
+#### Solution
 
 ```sql
 SELECT candidate_id
